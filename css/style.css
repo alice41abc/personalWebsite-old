@@ -365,7 +365,7 @@ nav ul,nav ol {
 	transition-delay: 0.5s;
 }
 .front {
-	background: url('../img/2.jpg') right top no-repeat;
+	background: url('../img/2.JPG') right top no-repeat;
 	background-size: 900px 910px;
 	padding:70px 10px 1px 100px;
 	height:contain;
